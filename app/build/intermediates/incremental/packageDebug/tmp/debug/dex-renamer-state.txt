@@ -1,0 +1,4 @@
+#Sun Oct 29 20:42:32 ICT 2023
+base.0=C\:\\Users\\phamt\\OneDrive - Hanoi University of Science and Technology\\Desktop\\android\\Maillist\\View_MailList\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable avtcute
+drawable blackstar
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable yellowstar
+id check_selected
+id image
+id list_view
+id text_date
+id text_desc
+id text_title
+layout activity_main
+layout layout_item_model
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.GmailPratice
+style Theme.GmailPratice
+xml backup_rules
+xml data_extraction_rules
